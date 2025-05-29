@@ -1,14 +1,14 @@
-  "Func Arrow0": {
-    "prefix": "f1",
-    "body": [
-      "const func = 引数 => ;"
-    ],
-    "description": "アロー関数引数1個"
-  },	
-  "Func Arrow1": {
-    "prefix": "f2",
-    "body": [
-      "const func = () => {};"
-    ],
-    "description": "アロー関数引数2個以上"
-  },
+"Func Arrow0": {
+  "prefix": "f1",
+  "body": [
+    "const func = 引数 => ;"
+  ],
+  "description": "アロー関数引数1個"
+},	
+"Func Arrow1": {
+  "prefix": "f2",
+  "body": [
+    "const func = () => {};"
+  ],
+  "description": "アロー関数引数2個以上"
+},
