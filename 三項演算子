@@ -1,0 +1,7 @@
+  "Ternary Operator": {
+    "prefix": "i3",
+    "body": [
+      "const a = b ? '$3' : '$4';"
+    ],
+    "description": "三項演算子"
+  },
